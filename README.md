@@ -20,6 +20,6 @@
 - 後端使用 Python FastAPI ，並採用 MVC 模式設計
 - 專案部署於 AWS EC2
 
-### 🗂️ 個人履歷(PDF) ➡️ [Resume-anchi.pdf](https://github.com/user-attachments/files/17076567/Resume-anchi.pdf)
+### 🗂️ 個人履歷(PDF) ➡️ [Resume-anchi.pdf](https://github.com/user-attachments/files/17077002/Resume-AnChi.pdf)
+![Resume-AnChi](https://github.com/user-attachments/assets/991c7a34-cb90-478c-9656-0f94e8933331)
 
-![Resume-anchi](https://github.com/user-attachments/assets/29f8d096-1e0c-46d1-b865-f0e74bc09098)
